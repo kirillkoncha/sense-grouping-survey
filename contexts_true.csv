@@ -1,0 +1,10 @@
+word,order,text,type,group
+гранат,1,Вкусные гранаты,fill,literal
+гранат,2,Цветущие гранаты,fill,literal
+гранат,3,Неограненный гранат,fill,metaphor
+светить,1,Лампа светила слабо,stim,literal
+светить,2,Солнце светит,stim,metaphor
+светить,3,Светить карманным фонариком,stim,metaphor
+светить,4,Мне светит встреча с ним,stim,metaphor
+хитрый,1,Хитрый замок,stim,literal
+хитрый,2,Хитрые глазки,stim,metaphor
