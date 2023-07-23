@@ -1,0 +1,1495 @@
+- model: survey.contextset
+  pk: 1
+  fields:
+    word: безумный
+
+- model: survey.context
+  pk: 1
+  fields:
+    order: 1
+    context_set: 1
+    text: В этом фильме безумный ученый создает вирус для превращения людей в мутантов.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 2
+  fields:
+    order: 1
+    context_set: 1
+    text: Убийца из московского метро оказался безумным маньяком.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 3
+  fields:
+    order: 1
+    context_set: 1
+    text: Наша учительница математики безумная - всегда задает нам задание на каникулы.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 4
+  fields:
+    order: 1
+    context_set: 1
+    text: Из меня вышла не очень безумная бабушка - я не воспринимаю внуков как беспомощных малышей, требующих от меня ежеминутной заботы.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 5
+  fields:
+    order: 1
+    context_set: 1
+    text: У нас в отеле вся еда включена, но алкоголь стоит безумных денег.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 6
+  fields:
+    order: 1
+    context_set: 1
+    text: Нам поступает совершенно безумное количество жалоб.
+    derivation: bleaching_adj
+
+- model: survey.contextset
+  pk: 2
+  fields:
+    word: слабый
+
+- model: survey.context
+  pk: 7
+  fields:
+    order: 1
+    context_set: 2
+    text: У вас очень слабые мышцы спины, вам нужно тренироваться.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 8
+  fields:
+    order: 1
+    context_set: 2
+    text: Своими слабыми руками она изо всех сил старалась его оттолкнуть.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 9
+  fields:
+    order: 1
+    context_set: 2
+    text: Про Эйнштейна говорят, что он был гениальным физиком, но слабым математиком.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 10
+  fields:
+    order: 1
+    context_set: 2
+    text: Это очень слабый студент - все время получает тройки с минусом по географии.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 11
+  fields:
+    order: 1
+    context_set: 2
+    text: На завтра обещали туман и местами слабые дожди.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 12
+  fields:
+    order: 1
+    context_set: 2
+    text: Обратитесь к врачу, даже если боли совсем слабые.
+    derivation: bleaching_adj
+
+- model: survey.contextset
+  pk: 3
+  fields:
+    word: страшный
+
+- model: survey.context
+  pk: 13
+  fields:
+    order: 1
+    context_set: 3
+    text: После этой страшной ночи она лишилась рассудка.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 14
+  fields:
+    order: 1
+    context_set: 3
+    text: Фильм оказался такой страшный, что я не смогла заснуть.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 15
+  fields:
+    order: 1
+    context_set: 3
+    text: Мне не кажется, что без косметики все девушки страшные.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 16
+  fields:
+    order: 1
+    context_set: 3
+    text: Парень у нее немного страшный, но зато человек хороший.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 17
+  fields:
+    order: 1
+    context_set: 3
+    text: В июле здесь обычно страшная жара.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 18
+  fields:
+    order: 1
+    context_set: 3
+    text: Комариные укусы вызывают страшный зуд.
+    derivation: bleaching_adj
+
+- model: survey.contextset
+  pk: 4
+  fields:
+    word: бешеный
+
+- model: survey.context
+  pk: 19
+  fields:
+    order: 1
+    context_set: 4
+    text: У нас в поселке застрелили нескольких бешеных лис.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 20
+  fields:
+    order: 1
+    context_set: 4
+    text: Бешеную собаку прививать уже поздно.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 21
+  fields:
+    order: 1
+    context_set: 4
+    text: У него совершенно бешеный характер.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 22
+  fields:
+    order: 1
+    context_set: 4
+    text: Он смотрел на нее бешеным взглядом.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 23
+  fields:
+    order: 1
+    context_set: 4
+    text: Этот роман сразу приобрел бешеную популярность.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 24
+  fields:
+    order: 1
+    context_set: 4
+    text: Как сделать качественный ремонт не за бешеные деньги?
+    derivation: bleaching_adj
+
+- model: survey.contextset
+  pk: 5
+  fields:
+    word: легкий
+
+- model: survey.context
+  pk: 25
+  fields:
+    order: 1
+    context_set: 5
+    text: Чтобы самолет взлетел, у него должен быть легкий корпус и мощный двигатель.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 26
+  fields:
+    order: 1
+    context_set: 5
+    text: Он взял с собой только компьютерную сумку и небольшой легкий чемодан.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 27
+  fields:
+    order: 1
+    context_set: 5
+    text: Эти пакеты достаточно легкие - ты можешь донести их сама. 
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 28
+  fields:
+    order: 1
+    context_set: 5
+    text: Водитель грузовика не пострадал, отделавшись лишь легким испугом.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 29
+  fields:
+    order: 1
+    context_set: 5
+    text: Легкий акцент выдавал в ней иностранку.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 30
+  fields:
+    order: 1
+    context_set: 5
+    text: На его шутку она ответила лишь легкой улыбкой.
+    derivation: bleaching_adj
+
+- model: survey.contextset
+  pk: 6
+  fields:
+    word: дикий
+
+- model: survey.context
+  pk: 31
+  fields:
+    order: 1
+    context_set: 6
+    text: Популяция диких слонов неуклонно сокращается.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 32
+  fields:
+    order: 1
+    context_set: 6
+    text: Найти на рынке мед диких пчел - большая удача.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 33
+  fields:
+    order: 1
+    context_set: 6
+    text: В местных лесах встречаются дикие яблони.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 34
+  fields:
+    order: 1
+    context_set: 6
+    text: Меня сковал дикий ужас, я не могла даже губами пошевелить.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 35
+  fields:
+    order: 1
+    context_set: 6
+    text: Я осталась в диком восторге от представления.
+    derivation: bleaching_adj
+
+- model: survey.context
+  pk: 36
+  fields:
+    order: 1
+    context_set: 6
+    text: На местных пляжах в августе собирается дикое количество туристов.
+    derivation: bleaching_adj
+
+- model: survey.contextset
+  pk: 7
+  fields:
+    word: острый
+
+- model: survey.context
+  pk: 37
+  fields:
+    order: 1
+    context_set: 7
+    text: Мясо желательно резать острым ножом.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 38
+  fields:
+    order: 1
+    context_set: 7
+    text: У хищных животных, как правило, очень острые зубы.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 39
+  fields:
+    order: 1
+    context_set: 7
+    text: Древние римляне писали острой палочкой на дощечке, покрытой воском.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 40
+  fields:
+    order: 1
+    context_set: 7
+    text: При отравлении бледными поганками острые боли возникают далеко не сразу.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 41
+  fields:
+    order: 1
+    context_set: 7
+    text: Продукты с острым запахом должны храниться в закрытой посуде.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 42
+  fields:
+    order: 1
+    context_set: 7
+    text: Внезапно меня пронзила острая жалость к нему.
+    derivation: metaphor_adj
+
+- model: survey.contextset
+  pk: 8
+  fields:
+    word: холодный
+
+- model: survey.context
+  pk: 43
+  fields:
+    order: 1
+    context_set: 8
+    text: Не надо сидеть на холодном камне, можно простудиться.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 44
+  fields:
+    order: 1
+    context_set: 8
+    text: Маша жадно пила холодную воду.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 45
+  fields:
+    order: 1
+    context_set: 8
+    text: Он робко прикоснулся к ее холодной руке.
+    derivation: literal_adj
+
+- model: survey.context
+  pk: 46
+  fields:
+    order: 1
+    context_set: 8
+    text: Она бросила на него холодный взгляд и отвернулась.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 47
+  fields:
+    order: 1
+    context_set: 8
+    text: Критики встретили ее книгу холодным равнодушием.
+    derivation: metaphor_adj
+
+- model: survey.context
+  pk: 48
+  fields:
+    order: 1
+    context_set: 8
+    text: Меня поразил ее холодный тон в разговоре с мужем.
+    derivation: metaphor_adj
+
+- model: survey.contextset
+  pk: 9
+  fields:
+    word: вести
+
+- model: survey.context
+  pk: 49
+  fields:
+    order: 1
+    context_set: 9
+    text: Я оглянулся - мимо вели человека в наручниках.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 50
+  fields:
+    order: 1
+    context_set: 9
+    text: Сегодня мы ведем детей в планетарий. 
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 51
+  fields:
+    order: 1
+    context_set: 9
+    text: Куда ведет страну нынешнее правительство?
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 52
+  fields:
+    order: 1
+    context_set: 9
+    text: Повальный алкоголизм ведет нацию к вырождению. 
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 53
+  fields:
+    order: 1
+    context_set: 9
+    text: Он вел разговор на повышенных тонах.
+    derivation: bleaching_verb
+
+- model: survey.context
+  pk: 53
+  fields:
+    order: 1
+    context_set: 9
+    text: В ее обязанности входит вести переписку с клиентами.
+    derivation: bleaching_verb
+
+- model: survey.contextset
+  pk: 10
+  fields:
+    word: нести
+
+- model: survey.context
+  pk: 54
+  fields:
+    order: 1
+    context_set: 10
+    text: Ослик шел по дороге и нес груз на спине.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 55
+  fields:
+    order: 1
+    context_set: 10
+    text: Она несла на подносе чашки с чаем.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 56
+  fields:
+    order: 1
+    context_set: 10
+    text: Течение несло лодку прямо на скалу.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 57
+  fields:
+    order: 1
+    context_set: 10
+    text: Весной сильные ветры несут горячий песок из пустыни.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 58
+  fields:
+    order: 1
+    context_set: 10
+    text: Тебе не кажется, что ты несешь бред?
+    derivation: bleaching_verb
+
+- model: survey.context
+  pk: 59
+  fields:
+    order: 1
+    context_set: 10
+    text: Как не стыдно такую чушь нести?
+    derivation: bleaching_verb
+
+- model: survey.contextset
+  pk: 11
+  fields:
+    word: выйти
+
+- model: survey.context
+  pk: 60
+  fields:
+    order: 1
+    context_set: 11
+    text: Мы расплатились и вышли из ресторана.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 61
+  fields:
+    order: 1
+    context_set: 11
+    text: Она вышла к калитке и стояла, ожидая его.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 61
+  fields:
+    order: 1
+    context_set: 11
+    text: Моя жена наконец-то вышла из депрессии, которая продолжалась больше года.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 62
+  fields:
+    order: 1
+    context_set: 11
+    text: Его сын совершенно вышел из-под контроля.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 63
+  fields:
+    order: 1
+    context_set: 11
+    text: У него вышла неприятность на работе, и его чуть не уволили.
+    derivation: bleaching_verb
+
+- model: survey.context
+  pk: 64
+  fields:
+    order: 1
+    context_set: 11
+    text: Боюсь, что из этой затеи ничего не вышло.
+    derivation: bleaching_verb
+
+- model: survey.contextset
+  pk: 12
+  fields:
+    word: дать
+
+- model: survey.context
+  pk: 65
+  fields:
+    order: 1
+    context_set: 12
+    text: Он дал ей денег и ушел.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 66
+  fields:
+    order: 1
+    context_set: 12
+    text: Дай мне чаю!
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 67
+  fields:
+    order: 1
+    context_set: 12
+    text: Школа очень много мне дала.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 68
+  fields:
+    order: 1
+    context_set: 12
+    text: Семья дала ему уверенность в себе. 
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 69
+  fields:
+    order: 1
+    context_set: 12
+    text: Командир дал приказ отступать.
+    derivation: bleaching_verb
+
+- model: survey.context
+  pk: 70
+  fields:
+    order: 1
+    context_set: 12
+    text: Он обещал дать ответ не позднее послезавтра.
+    derivation: bleaching_verb
+
+- model: survey.contextset
+  pk: 13
+  fields:
+    word: снять
+
+- model: survey.context
+  pk: 71
+  fields:
+    order: 1
+    context_set: 13
+    text: Я сняла куртку, так как на улице было жарко.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 72
+  fields:
+    order: 1
+    context_set: 13
+    text: Она сняла очки и надела линзы.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 73
+  fields:
+    order: 1
+    context_set: 13
+    text: Петя с трудом снял кольцо с опухшего пальца.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 74
+  fields:
+    order: 1
+    context_set: 13
+    text: Власти Китая сняли запрет на туристические поездки.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 75
+  fields:
+    order: 1
+    context_set: 13
+    text: Его полностью реабилитировали и сняли судимость.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 76
+  fields:
+    order: 1
+    context_set: 13
+    text: Это попытка снять ответственность с главы региона.
+    derivation: metaphor_verb
+
+- model: survey.contextset
+  pk: 14
+  fields:
+    word: поднять
+
+- model: survey.context
+  pk: 77
+  fields:
+    order: 1
+    context_set: 14
+    text: На корабле подняли флаг.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 78
+  fields:
+    order: 1
+    context_set: 14
+    text: Подняли занавес и представление началось.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 79
+  fields:
+    order: 1
+    context_set: 14
+    text: Маша подняла жалюзи, и в комнате сразу же стало светло.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 80
+  fields:
+    order: 1
+    context_set: 14
+    text: Как только жена об этом услышала, она сразу подняла крик.
+    derivation: bleaching_verb
+
+- model: survey.context
+  pk: 81
+  fields:
+    order: 1
+    context_set: 14
+    text: Увидев в салоне самолета мышь, пассажир поднял панику.
+    derivation: bleaching_verb
+
+- model: survey.context
+  pk: 82
+  fields:
+    order: 1
+    context_set: 14
+    text: Народ поднял восстание против колонизаторов.
+    derivation: bleaching_verb
+
+- model: survey.contextset
+  pk: 15
+  fields:
+    word: идти
+
+- model: survey.context
+  pk: 83
+  fields:
+    order: 1
+    context_set: 15
+    text: Из окна я увидела, как он идет к машине.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 84
+  fields:
+    order: 1
+    context_set: 15
+    text: Собака идет за хозяином.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 85
+  fields:
+    order: 1
+    context_set: 15
+    text: Мы сейчас уже идем к дому.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 86
+  fields:
+    order: 1
+    context_set: 15
+    text: Ребята стремительно идут к успеху.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 87
+  fields:
+    order: 1
+    context_set: 15
+    text: Надо верить в себя и идти к цели.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 88
+  fields:
+    order: 1
+    context_set: 15
+    text: Боюсь, что мы идем к банкротству.
+    derivation: metaphor_verb
+
+- model: survey.contextset
+  pk: 16
+  fields:
+    word: потерять
+
+- model: survey.context
+  pk: 89
+  fields:
+    order: 1
+    context_set: 16
+    text: Моя жена потеряла ключи от квартиры.  
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 90
+  fields:
+    order: 1
+    context_set: 16
+    text: Неужели ты опять потерял паспорт?
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 91
+  fields:
+    order: 1
+    context_set: 16
+    text: Я потеряла кошелек и уже три дня не могу его найти.
+    derivation: literal_verb
+
+- model: survey.context
+  pk: 92
+  fields:
+    order: 1
+    context_set: 16
+    text: Несчастный принц потерял покой.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 93
+  fields:
+    order: 1
+    context_set: 16
+    text: После того, что произошло, она потеряла веру в добро.
+    derivation: metaphor_verb
+
+- model: survey.context
+  pk: 94
+  fields:
+    order: 1
+    context_set: 16
+    text: На этой работе он потерял здоровье.
+    derivation: metaphor_verb
+
+- model: survey.contextset
+  pk: 17
+  fields:
+    word: кормовой
+    is_filler: True
+
+- model: survey.context
+  pk: 95
+  fields:
+    order: 1
+    context_set: 17
+    text: Наша задача ― посеять на лугах и пастбищах новые кормовые растения. 
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 96
+  fields:
+    order: 1
+    context_set: 17
+    text: На поливных землях возделывают овощи и кормовые культуры.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 97
+  fields:
+    order: 1
+    context_set: 17
+    text: На одном из пастбищ для скота были посеяны кормовые травы.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 98
+  fields:
+    order: 1
+    context_set: 17
+    text: Аккуратная дверь с иллюминатором выходила на кормовую палубу. 
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 99
+  fields:
+    order: 1
+    context_set: 17
+    text: Федя сидел за кормовым веслом, как и подобало капитану.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 100
+  fields:
+    order: 1
+    context_set: 17
+    text: В кормовой части лязгнуло, по кораблю прошла мелкая дрожь.
+    derivation: fil_homonymy2
+
+- model: survey.contextset
+  pk: 18
+  fields:
+    word: карьерный
+    is_filler: True
+
+- model: survey.context
+  pk: 101
+  fields:
+    order: 1
+    context_set: 18
+    text: Повышение по службе дало надежды на карьерный рост.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 102
+  fields:
+    order: 1
+    context_set: 18
+    text: Ее трудолюбие помогло ей достичь карьерных высот.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 103
+  fields:
+    order: 1
+    context_set: 18
+    text: Чтобы подняться выше по карьерной лестнице, нужно много трудиться.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 104
+  fields:
+    order: 1
+    context_set: 18
+    text: Наша компания является лидером в производстве карьерного транспорта.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 105
+  fields:
+    order: 1
+    context_set: 18
+    text: У нас можно заказать шины для карьерных автомобилей.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 106
+  fields:
+    order: 1
+    context_set: 18
+    text: Современные карьерные машины оснащаются специальными системами.
+    derivation: fil_homonymy2
+
+- model: survey.contextset
+  pk: 19
+  fields:
+    word: планировать
+    is_filler: True
+
+- model: survey.context
+  pk: 107
+  fields:
+    order: 1
+    context_set: 19
+    text: Понятно, что планировать летний отдых нужно уже сейчас.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 108
+  fields:
+    order: 1
+    context_set: 19
+    text: Он планирует свои расходы на неделю очень тщательно.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 109
+  fields:
+    order: 1
+    context_set: 19
+    text: На самом деле очень важно стараться правильно планировать время.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 110
+  fields:
+    order: 1
+    context_set: 19
+    text: Рыжие грифы величаво планируют над  ущельем.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 111
+  fields:
+    order: 1
+    context_set: 19
+    text: После раскрытия парашют довольно быстро планировал вперед, поворачивал в любую сторону и позволял парашютисту контролировать скорость приземления.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 112
+  fields:
+    order: 1
+    context_set: 19
+    text: Современные самолеты очень тяжелые, и поэтому не могут долго планировать.
+    derivation: fil_homonymy2
+
+- model: survey.contextset
+  pk: 20
+  fields:
+    word: почитать
+    is_filler: True
+
+- model: survey.context
+  pk: 113
+  fields:
+    order: 1
+    context_set: 20
+    text: На портале можно почитать статьи и посмотреть видео о деятельности этой организации.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 114
+  fields:
+    order: 1
+    context_set: 20
+    text: Скажи, пожалуйста, а где можно почитать твои стихи?
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 115
+  fields:
+    order: 1
+    context_set: 20
+    text: Если внимательно почитать описание к курсам, то становится понятно, что в большинстве из них не научат ничему новому.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 116
+  fields:
+    order: 1
+    context_set: 20
+    text: Почитай отца твоего и мать твою.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 117
+  fields:
+    order: 1
+    context_set: 20
+    text: Максим, тебя в детстве не учили уважать и почитать старших?
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 118
+  fields:
+    order: 1
+    context_set: 20
+    text: В этой школе мы учим детей почитать предков, любить свою историю и свою Родину, - утверждал священнослужитель.
+    derivation: fil_homonymy2
+
+- model: survey.contextset
+  pk: 21
+  fields:
+    word: доложить
+    is_filler: True
+
+- model: survey.context
+  pk: 119
+  fields:
+    order: 1
+    context_set: 21
+    text: Директору доложили о приходе посетителя.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 120
+  fields:
+    order: 1
+    context_set: 21
+    text: Он уже успел доложить начальству о ее опоздании.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 121
+  fields:
+    order: 1
+    context_set: 21
+    text: Как только он придет, прошу мне сразу доложить.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 122
+  fields:
+    order: 1
+    context_set: 21
+    text: Он доложил себе на миску еще каши.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 123
+  fields:
+    order: 1
+    context_set: 21
+    text: Доложи мне половник супа.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 124
+  fields:
+    order: 1
+    context_set: 21
+    text: Хозяйка в третий раз доложила мне на тарелку мяса.
+    derivation: fil_homonymy2
+
+- model: survey.contextset
+  pk: 22
+  fields:
+    word: гранатовый
+    is_filler: True
+
+- model: survey.context
+  pk: 125
+  fields:
+    order: 1
+    context_set: 22
+    text: Гранатовый сок естественным способом предупреждает образование зубного камня в силу своих антибактериальных свойств.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 126
+  fields:
+    order: 1
+    context_set: 22
+    text: В ресторане Петя заказал три шарика восхитительного мороженого с гранатовым сиропом, свежайший тирамису и чай "дикая вишня".
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 127
+  fields:
+    order: 1
+    context_set: 22
+    text: Чтобы приготовить гранатовый шербет, нам понадобится около килограмма кислых гранатов.
+    derivation: fil_homonymy1
+
+- model: survey.context
+  pk: 128
+  fields:
+    order: 1
+    context_set: 22
+    text: Ее искрящиеся гранатовые бусы притягивали взгляд как магнит.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 129
+  fields:
+    order: 1
+    context_set: 22
+    text: У пожилой преподавательницы музыки Эмилии Карловны украли гранатовую брошь.
+    derivation: fil_homonymy2
+
+- model: survey.context
+  pk: 130
+  fields:
+    order: 1
+    context_set: 22
+    text: Твоей дочери я подарил гранатовое ожерелье.
+    derivation: fil_homonymy2
+
+- model: survey.contextset
+  pk: 23
+  fields:
+    word: деревянный
+    is_filler: True
+
+- model: survey.context
+  pk: 131
+  fields:
+    order: 1
+    context_set: 23
+    text: Я люблю есть деревянной ложкой.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 132
+  fields:
+    order: 1
+    context_set: 23
+    text: Мы построили деревянный дом.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 133
+  fields:
+    order: 1
+    context_set: 23
+    text: Я поставила на даче несколько деревянных скамеек.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 134
+  fields:
+    order: 1
+    context_set: 23
+    text: Купи ей традиционные деревянные игрушки.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 135
+  fields:
+    order: 1
+    context_set: 23
+    text: Самые качественные стулья - деревянные.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 136
+  fields:
+    order: 1
+    context_set: 23
+    text: В этом городе сохранился старинный деревянный храм.
+    derivation: monosemy
+
+- model: survey.contextset
+  pk: 24
+  fields:
+    word: иностранный
+    is_filler: True
+
+- model: survey.context
+  pk: 137
+  fields:
+    order: 1
+    context_set: 24
+    text: По предварительным данным, иностранных граждан среди погибших нет.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 138
+  fields:
+    order: 1
+    context_set: 24
+    text: Все иностранные гости получат возможность рассказать о родном городе.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 139
+  fields:
+    order: 1
+    context_set: 24
+    text: В Москве многие объекты строятся специально для иностранных инвесторов и покупателей.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 140
+  fields:
+    order: 1
+    context_set: 24
+    text: Эта компания нанимает и российских, и иностранных специалистов.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 141
+  fields:
+    order: 1
+    context_set: 24
+    text: Сравнительно низкие налоги для иностранных работников привлекают сюда многих.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 142
+  fields:
+    order: 1
+    context_set: 24
+    text: Договоренности с иностранными производителями уже достигнуты.
+    derivation: monosemy
+
+- model: survey.contextset
+  pk: 25
+  fields:
+    word: черный
+    is_filler: True
+
+- model: survey.context
+  pk: 143
+  fields:
+    order: 1
+    context_set: 25
+    text: На ней было надето черное платье с разрезом сбоку.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 144
+  fields:
+    order: 1
+    context_set: 25
+    text: Своим нарядом ― черный фрак и белоснежная рубашка ― он был похож на пингвина.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 145
+  fields:
+    order: 1
+    context_set: 25
+    text: На черных стенах висели цветные фотографии.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 146
+  fields:
+    order: 1
+    context_set: 25
+    text: Мне снилась черная кошка и белый верблюд.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 147
+  fields:
+    order: 1
+    context_set: 25
+    text: Маслины были черные, толстые, с косточкой.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 148
+  fields:
+    order: 1
+    context_set: 25
+    text: За углом отеля меня ждал черный лимузин с занавешенными стеклами.
+    derivation: monosemy
+
+- model: survey.contextset
+  pk: 26
+  fields:
+    word: танцевать
+    is_filler: True
+
+- model: survey.context
+  pk: 149
+  fields:
+    order: 1
+    context_set: 26
+    text: Все актеры должны уметь танцевать и петь.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 150
+  fields:
+    order: 1
+    context_set: 26
+    text: Сегодня я видел очень милую  картину, под тяжелый рок бабушка танцевала народные танцы.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 151
+  fields:
+    order: 1
+    context_set: 26
+    text: Анатолий боялся признаться, что не танцует.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 152
+  fields:
+    order: 1
+    context_set: 26
+    text: Твой дядя отлично танцует!
+    derivation: monosemy
+
+- model: survey.context
+  pk: 153
+  fields:
+    order: 1
+    context_set: 26
+    text: Алия обычно выступает в театре, но иногда танцует и в ресторанах.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 154
+  fields:
+    order: 1
+    context_set: 26
+    text: Я танцевал плохо, вообще не умел, а она могла что фокстрот, что танго...
+    derivation: monosemy
+
+- model: survey.contextset
+  pk: 27
+  fields:
+    word: заплакать
+    is_filler: True
+
+- model: survey.context
+  pk: 155
+  fields:
+    order: 1
+    context_set: 27
+    text: Среди ночи в квартире заплакал ребенок.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 156
+  fields:
+    order: 1
+    context_set: 27
+    text: Артем упал на колени, закрыл лицо руками и заплакал от боли.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 157
+  fields:
+    order: 1
+    context_set: 27
+    text: По вечерам ей иногда хотелось заплакать от бессилия, но и этого не получалось...
+    derivation: monosemy
+
+- model: survey.context
+  pk: 158
+  fields:
+    order: 1
+    context_set: 27
+    text: Девушка почувствовала, что сейчас заплачет и предусмотрительно отвернулась к стене.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 159
+  fields:
+    order: 1
+    context_set: 27
+    text: Король страшно расстроился, заплакал и сказал, что тому, кто найдет амулет, он отдаст в жены прекрасную принцессу и еще половину царства в придачу.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 159
+  fields:
+    order: 1
+    context_set: 27
+    text: Как-то раз Маша заплакала, потому что ее унизили в домоуправлении.
+    derivation: monosemy
+
+- model: survey.contextset
+  pk: 28
+  fields:
+    word: сгореть
+    is_filler: True
+
+- model: survey.context
+  pk: 160
+  fields:
+    order: 1
+    context_set: 28
+    text: Опасаясь, что дом сгорит полностью, люди в одном белье выскакивали на улицу.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 161
+  fields:
+    order: 1
+    context_set: 28
+    text: В Варшаве в лаборатории университета после неудачного эксперимента сгорела крыша.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 162
+  fields:
+    order: 1
+    context_set: 27
+    text: Приехала Леля, у нее сгорела дача, они еле спаслись, но все вещи погибли.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 163
+  fields:
+    order: 1
+    context_set: 28
+    text: По словам академика Исаева, в Якутии, например, уже сгорел лес на площади в полтора миллиона гектаров.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 164
+  fields:
+    order: 1
+    context_set: 28
+    text: Ветки сгорели быстро и сразу рассыпались в легкий пепел, припудривший крупные уголья.
+    derivation: monosemy
+
+- model: survey.context
+  pk: 165
+  fields:
+    order: 1
+    context_set: 28
+    text: Здесь в деревянном частном доме сгорел диван вместе с хозяином 1940 года рождения.
+    derivation: monosemy
