@@ -5,4 +5,4 @@ cp db.sqlite3 db.sqlite3.backup
 pip install -r requirements.txt
 ./manage.py migrate
 ./manage.py collectstatic --noinput
-supervisorctl restart sgs
+sudo supervisorctl restart sgs
