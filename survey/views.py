@@ -16,8 +16,8 @@ from .export import export_results
 # Number of filler and stimuli for each participant
 # Note that stats view and template have hardcoded thresholds
 # which also need to be updated in case the total number of contexts changes.
-N_FILLERS = 3
-N_STIMULI = 7
+N_FILLERS = 12
+N_STIMULI = 16
 
 
 class Start(View):
