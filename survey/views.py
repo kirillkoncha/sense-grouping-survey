@@ -33,6 +33,8 @@ class Start(View):
             cs_fillers, cs_stimuli = [], []
             for cs in ContextSet.objects.all():
                 (cs_fillers if cs.is_filler else cs_stimuli).append(cs)
+            #cs_to_group = random.sample(cs_stimuli, N_STIMULI)
+            #cs_to_group = cs_stimuli
             cs_to_group = (random.sample(cs_fillers, N_FILLERS) +
                            random.sample(cs_stimuli, N_STIMULI))
             participant = form.save()
@@ -163,3 +165,6 @@ def invalid_form_response(form):
     # TODO - show it
     return json_response(
         {'error': str(form.errors())}, response_cls=HttpResponseBadRequest)
+
+
+
