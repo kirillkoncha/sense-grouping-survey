@@ -838,7 +838,7 @@
     text: После того, что произошло, она потеряла веру в добро.
     derivation: metaphor
 
-- model: srvey.context
+- model: survey.context
   pk: 96
   fields:
     order: 1
