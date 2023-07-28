@@ -154,7 +154,7 @@
   fields:
     order: 1
     context_set: 3
-    text: Комариные укусы вызывают страшный зуд.
+    text: От нового крема для бритья у него началось страшное раздражение.
     derivation: bleaching
 
 - model: survey.contextset
@@ -358,7 +358,7 @@
   fields:
     order: 1
     context_set: 7
-    text: Продукты с острым запахом должны храниться в закрытой посуде.
+    text: Чесоточный клещ вызывает острый зуд.
     derivation: metaphor
 
 - model: survey.context
@@ -366,7 +366,7 @@
   fields:
     order: 1
     context_set: 7
-    text: Внезапно меня пронзила острая жалость к нему.
+    text: При острой мигрени помогает теплый душ.
     derivation: metaphor
 
 - model: survey.contextset
