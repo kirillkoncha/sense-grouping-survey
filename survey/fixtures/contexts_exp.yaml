@@ -9,7 +9,7 @@
     order: 1
     context_set: 1
     text: В этом фильме безумный ученый создает вирус для превращения людей в мутантов.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 2
@@ -17,23 +17,23 @@
     order: 1
     context_set: 1
     text: Убийца из московского метро оказался безумным маньяком.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 3
   fields:
     order: 1
     context_set: 1
-    text: Наша учительница математики безумная - всегда задает нам задание на каникулы.
-    derivation: metaphor_adj
+    text: Наша учительница математики безумная — всегда задает нам задание на каникулы.
+    derivation: metaphor
 
 - model: survey.context
   pk: 4
   fields:
     order: 1
     context_set: 1
-    text: Из меня вышла не очень безумная бабушка - я не воспринимаю внуков как беспомощных малышей, требующих от меня ежеминутной заботы.
-    derivation: metaphor_adj
+    text: Из меня вышла не очень безумная бабушка — я не воспринимаю внуков как беспомощных малышей, требующих от меня ежеминутной заботы.
+    derivation: metaphor
 
 - model: survey.context
   pk: 5
@@ -41,7 +41,7 @@
     order: 1
     context_set: 1
     text: У нас в отеле вся еда включена, но алкоголь стоит безумных денег.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 6
@@ -49,7 +49,7 @@
     order: 1
     context_set: 1
     text: Нам поступает совершенно безумное количество жалоб.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 2
@@ -62,7 +62,7 @@
     order: 1
     context_set: 2
     text: У вас очень слабые мышцы спины, вам нужно тренироваться.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 8
@@ -70,7 +70,7 @@
     order: 1
     context_set: 2
     text: Своими слабыми руками она изо всех сил старалась его оттолкнуть.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 9
@@ -78,15 +78,15 @@
     order: 1
     context_set: 2
     text: Про Эйнштейна говорят, что он был гениальным физиком, но слабым математиком.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 10
   fields:
     order: 1
     context_set: 2
-    text: Это очень слабый студент - все время получает тройки с минусом по географии.
-    derivation: metaphor_adj
+    text: Это очень слабый студент — все время получает тройки с минусом по географии.
+    derivation: metaphor
 
 - model: survey.context
   pk: 11
@@ -94,7 +94,7 @@
     order: 1
     context_set: 2
     text: На завтра обещали туман и местами слабые дожди.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 12
@@ -102,7 +102,7 @@
     order: 1
     context_set: 2
     text: Обратитесь к врачу, даже если боли совсем слабые.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 3
@@ -115,7 +115,7 @@
     order: 1
     context_set: 3
     text: После этой страшной ночи она лишилась рассудка.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 14
@@ -123,7 +123,7 @@
     order: 1
     context_set: 3
     text: Фильм оказался такой страшный, что я не смогла заснуть.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 15
@@ -131,7 +131,7 @@
     order: 1
     context_set: 3
     text: Мне не кажется, что без косметики все девушки страшные.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 16
@@ -139,7 +139,7 @@
     order: 1
     context_set: 3
     text: Парень у нее немного страшный, но зато человек хороший.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 17
@@ -147,7 +147,7 @@
     order: 1
     context_set: 3
     text: В июле здесь обычно страшная жара.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 18
@@ -155,7 +155,7 @@
     order: 1
     context_set: 3
     text: Комариные укусы вызывают страшный зуд.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 4
@@ -168,7 +168,7 @@
     order: 1
     context_set: 4
     text: У нас в поселке застрелили нескольких бешеных лис.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 20
@@ -176,7 +176,7 @@
     order: 1
     context_set: 4
     text: Бешеную собаку прививать уже поздно.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 21
@@ -184,7 +184,7 @@
     order: 1
     context_set: 4
     text: У него совершенно бешеный характер.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 22
@@ -192,7 +192,7 @@
     order: 1
     context_set: 4
     text: Он смотрел на нее бешеным взглядом.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 23
@@ -200,7 +200,7 @@
     order: 1
     context_set: 4
     text: Этот роман сразу приобрел бешеную популярность.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 24
@@ -208,7 +208,7 @@
     order: 1
     context_set: 4
     text: Как сделать качественный ремонт не за бешеные деньги?
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 5
@@ -221,7 +221,7 @@
     order: 1
     context_set: 5
     text: Чтобы самолет взлетел, у него должен быть легкий корпус и мощный двигатель.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 26
@@ -229,15 +229,15 @@
     order: 1
     context_set: 5
     text: Он взял с собой только компьютерную сумку и небольшой легкий чемодан.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 27
   fields:
     order: 1
     context_set: 5
-    text: Эти пакеты достаточно легкие - ты можешь донести их сама. 
-    derivation: literal_adj
+    text: Эти пакеты достаточно легкие — ты можешь донести их сама. 
+    derivation: literal
 
 - model: survey.context
   pk: 28
@@ -245,7 +245,7 @@
     order: 1
     context_set: 5
     text: Водитель грузовика не пострадал, отделавшись лишь легким испугом.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 29
@@ -253,7 +253,7 @@
     order: 1
     context_set: 5
     text: Легкий акцент выдавал в ней иностранку.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 30
@@ -261,7 +261,7 @@
     order: 1
     context_set: 5
     text: На его шутку она ответила лишь легкой улыбкой.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 6
@@ -274,15 +274,15 @@
     order: 1
     context_set: 6
     text: Популяция диких слонов неуклонно сокращается.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 32
   fields:
     order: 1
     context_set: 6
-    text: Найти на рынке мед диких пчел - большая удача.
-    derivation: literal_adj
+    text: Найти на рынке мед диких пчел — большая удача.
+    derivation: literal
 
 - model: survey.context
   pk: 33
@@ -290,7 +290,7 @@
     order: 1
     context_set: 6
     text: В местных лесах встречаются дикие яблони.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 34
@@ -298,7 +298,7 @@
     order: 1
     context_set: 6
     text: Меня сковал дикий ужас, я не могла даже губами пошевелить.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 35
@@ -306,7 +306,7 @@
     order: 1
     context_set: 6
     text: Я осталась в диком восторге от представления.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.context
   pk: 36
@@ -314,7 +314,7 @@
     order: 1
     context_set: 6
     text: На местных пляжах в августе собирается дикое количество туристов.
-    derivation: bleaching_adj
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 7
@@ -327,7 +327,7 @@
     order: 1
     context_set: 7
     text: Мясо желательно резать острым ножом.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 38
@@ -335,7 +335,7 @@
     order: 1
     context_set: 7
     text: У хищных животных, как правило, очень острые зубы.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 39
@@ -343,7 +343,7 @@
     order: 1
     context_set: 7
     text: Древние римляне писали острой палочкой на дощечке, покрытой воском.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 40
@@ -351,7 +351,7 @@
     order: 1
     context_set: 7
     text: При отравлении бледными поганками острые боли возникают далеко не сразу.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 41
@@ -359,7 +359,7 @@
     order: 1
     context_set: 7
     text: Продукты с острым запахом должны храниться в закрытой посуде.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 42
@@ -367,7 +367,7 @@
     order: 1
     context_set: 7
     text: Внезапно меня пронзила острая жалость к нему.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.contextset
   pk: 8
@@ -380,7 +380,7 @@
     order: 1
     context_set: 8
     text: Не надо сидеть на холодном камне, можно простудиться.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 44
@@ -388,7 +388,7 @@
     order: 1
     context_set: 8
     text: Маша жадно пила холодную воду.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 45
@@ -396,7 +396,7 @@
     order: 1
     context_set: 8
     text: Он робко прикоснулся к ее холодной руке.
-    derivation: literal_adj
+    derivation: literal
 
 - model: survey.context
   pk: 46
@@ -404,7 +404,7 @@
     order: 1
     context_set: 8
     text: Она бросила на него холодный взгляд и отвернулась.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 47
@@ -412,7 +412,7 @@
     order: 1
     context_set: 8
     text: Критики встретили ее книгу холодным равнодушием.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.context
   pk: 48
@@ -420,7 +420,7 @@
     order: 1
     context_set: 8
     text: Меня поразил ее холодный тон в разговоре с мужем.
-    derivation: metaphor_adj
+    derivation: metaphor
 
 - model: survey.contextset
   pk: 9
@@ -432,8 +432,8 @@
   fields:
     order: 1
     context_set: 9
-    text: Я оглянулся - мимо вели человека в наручниках.
-    derivation: literal_verb
+    text: Я оглянулся — мимо вели человека в наручниках.
+    derivation: literal
 
 - model: survey.context
   pk: 50
@@ -441,7 +441,7 @@
     order: 1
     context_set: 9
     text: Сегодня мы ведем детей в планетарий. 
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 51
@@ -449,7 +449,7 @@
     order: 1
     context_set: 9
     text: Куда ведет страну нынешнее правительство?
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 52
@@ -457,7 +457,7 @@
     order: 1
     context_set: 9
     text: Повальный алкоголизм ведет нацию к вырождению. 
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 53
@@ -465,7 +465,7 @@
     order: 1
     context_set: 9
     text: Он вел разговор на повышенных тонах.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 54
@@ -473,7 +473,7 @@
     order: 1
     context_set: 9
     text: В ее обязанности входит вести переписку с клиентами.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 10
@@ -486,7 +486,7 @@
     order: 1
     context_set: 10
     text: Ослик шел по дороге и нес груз на спине.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 56
@@ -494,7 +494,7 @@
     order: 1
     context_set: 10
     text: Она несла на подносе чашки с чаем.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 57
@@ -502,7 +502,7 @@
     order: 1
     context_set: 10
     text: Течение несло лодку прямо на скалу.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 58
@@ -510,7 +510,7 @@
     order: 1
     context_set: 10
     text: Весной сильные ветры несут горячий песок из пустыни.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 59
@@ -518,7 +518,7 @@
     order: 1
     context_set: 10
     text: Тебе не кажется, что ты несешь бред?
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 60
@@ -526,7 +526,7 @@
     order: 1
     context_set: 10
     text: Как не стыдно такую чушь нести?
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 11
@@ -539,7 +539,7 @@
     order: 1
     context_set: 11
     text: Мы расплатились и вышли из ресторана.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 62
@@ -547,7 +547,7 @@
     order: 1
     context_set: 11
     text: Она вышла к калитке и стояла, ожидая его.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 63
@@ -555,7 +555,7 @@
     order: 1
     context_set: 11
     text: Моя жена наконец-то вышла из депрессии, которая продолжалась больше года.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 64
@@ -563,7 +563,7 @@
     order: 1
     context_set: 11
     text: Его сын совершенно вышел из-под контроля.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 65
@@ -571,7 +571,7 @@
     order: 1
     context_set: 11
     text: У него вышла неприятность на работе, и его чуть не уволили.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 66
@@ -579,7 +579,7 @@
     order: 1
     context_set: 11
     text: Боюсь, что из этой затеи ничего не вышло.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 12
@@ -592,7 +592,7 @@
     order: 1
     context_set: 12
     text: Он дал ей денег и ушел.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 68
@@ -600,7 +600,7 @@
     order: 1
     context_set: 12
     text: Дай мне чаю!
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 69
@@ -608,7 +608,7 @@
     order: 1
     context_set: 12
     text: Школа очень много мне дала.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 70
@@ -616,7 +616,7 @@
     order: 1
     context_set: 12
     text: Семья дала ему уверенность в себе. 
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 71
@@ -624,7 +624,7 @@
     order: 1
     context_set: 12
     text: Командир дал приказ отступать.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 72
@@ -632,7 +632,7 @@
     order: 1
     context_set: 12
     text: Он обещал дать ответ не позднее послезавтра.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 13
@@ -645,7 +645,7 @@
     order: 1
     context_set: 13
     text: Я сняла куртку, так как на улице было жарко.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 74
@@ -653,7 +653,7 @@
     order: 1
     context_set: 13
     text: Она сняла очки и надела линзы.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 75
@@ -661,7 +661,7 @@
     order: 1
     context_set: 13
     text: Петя с трудом снял кольцо с опухшего пальца.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 76
@@ -669,7 +669,7 @@
     order: 1
     context_set: 13
     text: Власти Китая сняли запрет на туристические поездки.
-    derivation: metaphor_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 77
@@ -677,7 +677,7 @@
     order: 1
     context_set: 13
     text: Его полностью реабилитировали и сняли судимость.
-    derivation: metaphor_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 78
@@ -685,7 +685,7 @@
     order: 1
     context_set: 13
     text: Это попытка снять ответственность с главы региона.
-    derivation: metaphor_verb
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 14
@@ -698,7 +698,7 @@
     order: 1
     context_set: 14
     text: На корабле подняли флаг.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 80
@@ -706,7 +706,7 @@
     order: 1
     context_set: 14
     text: Подняли занавес и представление началось.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 81
@@ -714,7 +714,7 @@
     order: 1
     context_set: 14
     text: Маша подняла жалюзи, и в комнате сразу же стало светло.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 82
@@ -722,7 +722,7 @@
     order: 1
     context_set: 14
     text: Как только жена об этом услышала, она сразу подняла крик.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 83
@@ -730,7 +730,7 @@
     order: 1
     context_set: 14
     text: Увидев в салоне самолета мышь, пассажир поднял панику.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.context
   pk: 84
@@ -738,7 +738,7 @@
     order: 1
     context_set: 14
     text: Народ поднял восстание против колонизаторов.
-    derivation: bleaching_verb
+    derivation: bleaching
 
 - model: survey.contextset
   pk: 15
@@ -751,7 +751,7 @@
     order: 1
     context_set: 15
     text: Из окна я увидела, как он идет к машине.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 86
@@ -759,7 +759,7 @@
     order: 1
     context_set: 15
     text: Собака идет за хозяином.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 87
@@ -767,7 +767,7 @@
     order: 1
     context_set: 15
     text: Мы сейчас уже идем к дому.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 88
@@ -775,7 +775,7 @@
     order: 1
     context_set: 15
     text: Ребята стремительно идут к успеху.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 89
@@ -783,7 +783,7 @@
     order: 1
     context_set: 15
     text: Надо верить в себя и идти к цели.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 90
@@ -791,7 +791,7 @@
     order: 1
     context_set: 15
     text: Боюсь, что мы идем к банкротству.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.contextset
   pk: 16
@@ -804,7 +804,7 @@
     order: 1
     context_set: 16
     text: Моя жена потеряла ключи от квартиры.  
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 92
@@ -812,7 +812,7 @@
     order: 1
     context_set: 16
     text: Неужели ты опять потерял паспорт?
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 93
@@ -820,7 +820,7 @@
     order: 1
     context_set: 16
     text: Я потеряла кошелек и уже три дня не могу его найти.
-    derivation: literal_verb
+    derivation: literal
 
 - model: survey.context
   pk: 94
@@ -828,7 +828,7 @@
     order: 1
     context_set: 16
     text: Несчастный принц потерял покой.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.context
   pk: 95
@@ -836,15 +836,15 @@
     order: 1
     context_set: 16
     text: После того, что произошло, она потеряла веру в добро.
-    derivation: metaphor_verb
+    derivation: metaphor
 
-- model: survey.context
+- model: srvey.context
   pk: 96
   fields:
     order: 1
     context_set: 16
     text: На этой работе он потерял здоровье.
-    derivation: metaphor_verb
+    derivation: metaphor
 
 - model: survey.contextset
   pk: 17
@@ -911,7 +911,7 @@
   fields:
     order: 1
     context_set: 18
-    text: Повышение по службе дало надежды на карьерный рост.
+    text: Для него важен карьерный рост.
     derivation: fil_homonymy1
 
 - model: survey.context
@@ -997,7 +997,7 @@
   fields:
     order: 1
     context_set: 19
-    text: После раскрытия парашют довольно быстро планировал вперед, поворачивал в любую сторону и позволял парашютисту контролировать скорость приземления.
+    text: После раскрытия парашют довольно быстро начал планировать вперед.
     derivation: fil_homonymy2
 
 - model: survey.context
@@ -1035,7 +1035,7 @@
   fields:
     order: 1
     context_set: 20
-    text: Если внимательно почитать описание к курсам, то становится понятно, что в большинстве из них не научат ничему новому.
+    text: Подробнее о правилах сообщества можно почитать по ссылке.
     derivation: fil_homonymy1
 
 - model: survey.context
@@ -1059,7 +1059,7 @@
   fields:
     order: 1
     context_set: 20
-    text: В этой школе мы учим детей почитать предков, любить свою историю и свою Родину, - утверждал священнослужитель.
+    text: В этой школе мы учим детей почитать предков, любить свою историю и свою Родину.
     derivation: fil_homonymy2
 
 - model: survey.contextset
@@ -1127,7 +1127,7 @@
   fields:
     order: 1
     context_set: 22
-    text: Гранатовый сок естественным способом предупреждает образование зубного камня в силу своих антибактериальных свойств.
+    text: Врачи говорят, что гранатовый сок предупреждает образование зубного камня.
     derivation: fil_homonymy1
 
 - model: survey.context
@@ -1135,7 +1135,7 @@
   fields:
     order: 1
     context_set: 22
-    text: В ресторане Петя заказал три шарика восхитительного мороженого с гранатовым сиропом, свежайший тирамису и чай "дикая вишня".
+    text: В ресторане Петя заказал три шарика восхитительного мороженого с гранатовым сиропом и чай "дикая вишня".
     derivation: fil_homonymy1
 
 - model: survey.context
@@ -1213,7 +1213,7 @@
   fields:
     order: 1
     context_set: 23
-    text: Самые качественные стулья - деревянные.
+    text: Самые качественные стулья — деревянные.
     derivation: monosemy
 
 - model: survey.context
@@ -1235,7 +1235,7 @@
   fields:
     order: 1
     context_set: 24
-    text: По предварительным данным, иностранных граждан среди погибших нет.
+    text: Согласно МВД, иностранных граждан среди пострадавших нет.
     derivation: monosemy
 
 - model: survey.context
@@ -1243,7 +1243,7 @@
   fields:
     order: 1
     context_set: 24
-    text: Все иностранные гости получат возможность рассказать о родном городе.
+    text: Каждый иностранный гость рассказал о родном городе.
     derivation: monosemy
 
 - model: survey.context
@@ -1251,7 +1251,7 @@
   fields:
     order: 1
     context_set: 24
-    text: В Москве многие объекты строятся специально для иностранных инвесторов и покупателей.
+    text: В Москве многие объекты строятся специально для иностранных инвесторов.
     derivation: monosemy
 
 - model: survey.context
@@ -1259,7 +1259,7 @@
   fields:
     order: 1
     context_set: 24
-    text: Эта компания нанимает и российских, и иностранных специалистов.
+    text: Эта компания нанимает только иностранных специалистов.
     derivation: monosemy
 
 - model: survey.context
@@ -1267,7 +1267,7 @@
   fields:
     order: 1
     context_set: 24
-    text: Сравнительно низкие налоги для иностранных работников привлекают сюда многих.
+    text: Там были и иностранные делегации.
     derivation: monosemy
 
 - model: survey.context
@@ -1297,7 +1297,7 @@
   fields:
     order: 1
     context_set: 25
-    text: Своим нарядом ― черный фрак и белоснежная рубашка ― он был похож на пингвина.
+    text: Своим нарядом (черный фрак и белоснежная рубашка) он был похож на пингвина.
     derivation: monosemy
 
 - model: survey.context
@@ -1351,7 +1351,7 @@
   fields:
     order: 1
     context_set: 26
-    text: Сегодня я видел очень милую  картину, под тяжелый рок бабушка танцевала народные танцы.
+    text: Подростки любят танцевать под тяжелый рок.
     derivation: monosemy
 
 - model: survey.context
@@ -1383,7 +1383,7 @@
   fields:
     order: 1
     context_set: 26
-    text: Я танцевал плохо, вообще не умел, а она могла что фокстрот, что танго...
+    text: Я танцевал плохо, вообще не умел, а она могла и фокстрот, и танго...
     derivation: monosemy
 
 - model: survey.contextset
@@ -1429,7 +1429,7 @@
   fields:
     order: 1
     context_set: 27
-    text: Король страшно расстроился, заплакал и сказал, что тому, кто найдет амулет, он отдаст в жены прекрасную принцессу и еще половину царства в придачу.
+    text: Мальчик не сдержался и заплакал.
     derivation: monosemy
 
 - model: survey.context
@@ -1443,7 +1443,7 @@
 - model: survey.contextset
   pk: 28
   fields:
-    word: сгореть
+    word: уволить
     is_filler: True
 
 - model: survey.context
@@ -1451,7 +1451,7 @@
   fields:
     order: 1
     context_set: 28
-    text: Опасаясь, что дом сгорит полностью, люди в одном белье выскакивали на улицу.
+    text: За пьянство уволили начальника отдела и его заместителя.
     derivation: monosemy
 
 - model: survey.context
@@ -1459,7 +1459,7 @@
   fields:
     order: 1
     context_set: 28
-    text: В Варшаве в лаборатории университета после неудачного эксперимента сгорела крыша.
+    text: Уволить человека гораздо сложнее, чем подобрать нового.
     derivation: monosemy
 
 - model: survey.context
@@ -1467,7 +1467,7 @@
   fields:
     order: 1
     context_set: 28
-    text: Приехала Леля, у нее сгорела дача, они еле спаслись, но все вещи погибли.
+    text: Действительно, уволить Вашу дочь работодатель не может.
     derivation: monosemy
 
 - model: survey.context
@@ -1475,7 +1475,7 @@
   fields:
     order: 1
     context_set: 28
-    text: По словам академика Исаева, в Якутии, например, уже сгорел лес на площади в полтора миллиона гектаров.
+    text: Руководство собирается до конца года уволить 200 человек.
     derivation: monosemy
 
 - model: survey.context
@@ -1483,7 +1483,7 @@
   fields:
     order: 1
     context_set: 28
-    text: Ветки сгорели быстро и сразу рассыпались в легкий пепел, припудривший крупные уголья.
+    text: Игрок может уволить тренера в любой момент.
     derivation: monosemy
 
 - model: survey.context
@@ -1491,5 +1491,5 @@
   fields:
     order: 1
     context_set: 28
-    text: Здесь в деревянном частном доме сгорел диван вместе с хозяином 1940 года рождения.
+    text: Не уволняйте меня, пожалуйста!
     derivation: monosemy
