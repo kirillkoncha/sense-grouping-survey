@@ -16,8 +16,8 @@ from .export import export_results
 # Number of filler and stimuli for each participant
 # Note that stats view and template have hardcoded thresholds
 # which also need to be updated in case the total number of contexts changes.
-N_FILLERS = 12
-N_STIMULI = 16
+#N_FILLERS = 12
+N_STIMULI = 28
 
 
 class Start(View):
@@ -35,8 +35,7 @@ class Start(View):
                 (cs_fillers if cs.is_filler else cs_stimuli).append(cs)
             #cs_to_group = random.sample(cs_stimuli, N_STIMULI)
             #cs_to_group = cs_stimuli
-            cs_to_group = (random.sample(cs_fillers, N_FILLERS) +
-                           random.sample(cs_stimuli, N_STIMULI))
+            cs_to_group = random.sample(cs_stimuli, N_STIMULI)
             participant = form.save()
             participant.cs_to_group.add(*cs_to_group)
             return json_response(
