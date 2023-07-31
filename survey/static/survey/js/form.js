@@ -43,9 +43,9 @@ function submit_feedback_form($form) {
     var hasEmail = Boolean($form.find('input[name=email]').val().trim());
     if (!hasMessage && !hasEmail) {
         $('#success-image').hide();
-        $('#success-message').text('Спасибо за участие в опросе!');
+        $('#success-message').text('Спасибо за участие в опросе! Ваш код: 236549 — вы можете скопировать и вставить его в толоку для получения денег.');
     } else if (!hasMessage) {
-        $('#success-message').text('Мы получили ваш адрес почты. Спасибо!');
+        $('#success-message').text('Мы получили ваш адрес почты. Спасибо! Ваш код: 236549 — вы можете скопировать и вставить его в толоку для получения денег.');
     }
     send_ajax($form);
 }
