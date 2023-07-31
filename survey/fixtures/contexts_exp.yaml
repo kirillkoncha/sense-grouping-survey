@@ -850,7 +850,6 @@
   pk: 17
   fields:
     word: кормовой
-    is_filler: True
 
 - model: survey.context
   pk: 97
@@ -904,7 +903,6 @@
   pk: 18
   fields:
     word: карьерный
-    is_filler: True
 
 - model: survey.context
   pk: 103
@@ -958,7 +956,6 @@
   pk: 19
   fields:
     word: планировать
-    is_filler: True
 
 - model: survey.context
   pk: 109
@@ -1012,7 +1009,6 @@
   pk: 20
   fields:
     word: почитать
-    is_filler: True
 
 - model: survey.context
   pk: 115
@@ -1066,7 +1062,6 @@
   pk: 21
   fields:
     word: доложить
-    is_filler: True
 
 - model: survey.context
   pk: 121
@@ -1120,7 +1115,6 @@
   pk: 22
   fields:
     word: гранатовый
-    is_filler: True
 
 - model: survey.context
   pk: 127
@@ -1174,7 +1168,6 @@
   pk: 23
   fields:
     word: деревянный
-    is_filler: True
 
 - model: survey.context
   pk: 133
@@ -1228,7 +1221,6 @@
   pk: 24
   fields:
     word: иностранный
-    is_filler: True
 
 - model: survey.context
   pk: 139
@@ -1282,7 +1274,6 @@
   pk: 25
   fields:
     word: черный
-    is_filler: True
 
 - model: survey.context
   pk: 145
@@ -1336,7 +1327,6 @@
   pk: 26
   fields:
     word: танцевать
-    is_filler: True
 
 - model: survey.context
   pk: 151
@@ -1390,7 +1380,6 @@
   pk: 27
   fields:
     word: заплакать
-    is_filler: True
 
 - model: survey.context
   pk: 157
@@ -1444,7 +1433,6 @@
   pk: 28
   fields:
     word: уволить
-    is_filler: True
 
 - model: survey.context
   pk: 163
