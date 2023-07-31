@@ -1297,7 +1297,7 @@
   fields:
     order: 1
     context_set: 25
-    text: Своим нарядом (черный фрак и белоснежная рубашка) он был похож на пингвина.
+    text: Петя купил себе чёрный фрак.
     derivation: monosemy
 
 - model: survey.context
